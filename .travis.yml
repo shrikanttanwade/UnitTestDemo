@@ -1,0 +1,3 @@
+os: osx
+lanuage: swift
+osx_image: xcode11.6
